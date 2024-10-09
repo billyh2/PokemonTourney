@@ -6,3 +6,4 @@ This project is a custom Pokémon battle simulation platform built using Node.js
 
 To run the project, ensure you have Node.js (version 14 or higher) installed and set up Firebase for user authentication. After cloning the repository and installing the dependencies, you can start the server locally. The platform is accessible via the default port 3000, where users can either log in or join battles as guests. The server logs each battle, enabling users to review replays and track battle history. This project is licensed under AGPLv3, which allows for modifications and redistribution under the same license.
 
+Currently pushing code...
